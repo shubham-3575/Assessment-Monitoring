@@ -124,9 +124,3 @@ Admin-level reporting
 👨‍💻 Developed By
 Shubham Patel
 Assessment Monitoring Logs Module
-🧠 Optional Additions (If You Want to Look Even More Professional)
-You can add:
-Screenshots section
-Known limitations section
-Future enhancements section
-
